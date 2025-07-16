@@ -1,3 +1,3 @@
 # Hello World
 
-Projeto desenvolvido no curso de formação para professores denominado "Desenvolvimento web: ferramentas e orientações para professores", realizada pela Alura Start, uma parceria com a SEDUC Piauí.
+Projeto desenvolvido durante o curso de formação de professores **"Desenvolvimento Web: ferramentas e orientações para docentes"**, promovido pela Alura Start, em parceria com a SEDUC Piauí.
